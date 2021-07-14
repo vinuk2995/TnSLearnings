@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TnSLearnings.github.io/static/css/main.bd239f59.chunk.css",
+    "main.js": "/TnSLearnings.github.io/static/js/main.4abafecd.chunk.js",
+    "main.js.map": "/TnSLearnings.github.io/static/js/main.4abafecd.chunk.js.map",
+    "runtime-main.js": "/TnSLearnings.github.io/static/js/runtime-main.1bdac8cc.js",
+    "runtime-main.js.map": "/TnSLearnings.github.io/static/js/runtime-main.1bdac8cc.js.map",
+    "static/js/2.267307b6.chunk.js": "/TnSLearnings.github.io/static/js/2.267307b6.chunk.js",
+    "static/js/2.267307b6.chunk.js.map": "/TnSLearnings.github.io/static/js/2.267307b6.chunk.js.map",
+    "index.html": "/TnSLearnings.github.io/index.html",
+    "static/css/main.bd239f59.chunk.css.map": "/TnSLearnings.github.io/static/css/main.bd239f59.chunk.css.map",
+    "static/js/2.267307b6.chunk.js.LICENSE.txt": "/TnSLearnings.github.io/static/js/2.267307b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdac8cc.js",
+    "static/js/2.267307b6.chunk.js",
+    "static/css/main.bd239f59.chunk.css",
+    "static/js/main.4abafecd.chunk.js"
+  ]
+}
